@@ -1,4 +1,7 @@
 node_modules/
 coverage/
 dist/
-test/programs/typescript/cli/
+.eslintcache*
+.DS_Store*
+yarn-debug.log*
+yarn-error.log*
